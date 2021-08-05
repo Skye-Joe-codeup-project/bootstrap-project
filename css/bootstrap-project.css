@@ -1,0 +1,40 @@
+body{
+    background-color: #e6e6e6;
+}
+
+nav a {
+    font-size: .75em;
+    color: black;
+}
+
+.nav-background {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    height: 59px;
+    width: 100%;
+    top: 37px;
+    z-index: -1000;
+}
+
+nav .nav-item {
+    position: relative;
+    bottom: 6px;
+}
+
+
+.red{
+    background-color: #e6563b;
+}
+
+.yellow{
+background-color: #EB9D3A ;
+}
+
+.green{
+background-color: #7cB06c;
+}
+
+.teal{
+background-color: #00aba9;
+}
